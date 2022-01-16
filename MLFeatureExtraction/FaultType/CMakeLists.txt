@@ -1,0 +1,2 @@
+add_subdirectory(DistanceOfDoubleBitFlip)
+add_subdirectory(IfSingleBitFlip)

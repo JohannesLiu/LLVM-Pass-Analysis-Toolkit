@@ -1,0 +1,4 @@
+add_subdirectory(NumOfDivisionOps)
+add_subdirectory(NumOfRunningAdd)
+add_subdirectory(NumOfrunningMultiOps)
+add_subdirectory(NumOfRunningSubOperations)

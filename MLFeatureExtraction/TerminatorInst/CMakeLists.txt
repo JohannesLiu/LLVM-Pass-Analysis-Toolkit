@@ -1,0 +1,5 @@
+add_subdirectory(NumOfRunningAllocaInst)
+add_subdirectory(NumOfRunningBrInst)
+add_subdirectory(NumOfRunningLoadInst)
+add_subdirectory(NumOfRunningRetInst)
+add_subdirectory(NumOfRunningStoreInst)

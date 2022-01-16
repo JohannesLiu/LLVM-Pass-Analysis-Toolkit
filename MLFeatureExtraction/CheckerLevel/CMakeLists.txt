@@ -1,0 +1,3 @@
+add_subdirectory(AverageRunningBBLengthWithPreviousChecker)
+add_subdirectory(NumOfRunnigBBWithPreviousChecker)
+add_subdirectory(NumOfRunningBBWithoutPreviousChecker)

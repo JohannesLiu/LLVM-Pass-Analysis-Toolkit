@@ -1,0 +1,2 @@
+add_subdirectory(AverageNumOfBBInFunc)
+add_subdirectory(NumOfRunningFunc)

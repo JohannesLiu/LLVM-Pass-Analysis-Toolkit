@@ -1,0 +1,3 @@
+add_subdirectory(NumOfCallInst)
+add_subdirectory(NumOfRunningICMPFCMPInst)
+add_subdirectory(NumOfRunningPhiInst)
