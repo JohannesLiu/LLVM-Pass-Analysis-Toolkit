@@ -32,5 +32,6 @@
 *.app
 
 # idea
-
 .idea
+*.iml
+target
